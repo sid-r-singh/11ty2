@@ -1,26 +1,26 @@
 {
-  "title": "Title of the website. Update me.",
-  "url": "https://update-me.com",
-  "domain": "update-me.com",
-  "description": "Description of the website. Update me.",
+  "title": "Anand Chowdhary",
+  "url": "https://anandchowdhary.com",
+  "domain": "anandchowdhary.com",
+  "description": "Anand Chowdhary is a creative technologist and entrepreneur. He is the co-founder of Koj and Oswald Labs and lives in Enschede, the Netherlands.",
   "genre": "Insert a schema.org genre",
-  "googleAnalyticsId": "GA ID. Update me",
+  "googleAnalyticsId": "UA-39298323-1",
   "sendWebVitals": false,
   "feed": {
-    "subtitle": "Subtitle. Update me.",
+    "subtitle": "Creative technologist and entrepreneur",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
-    "id": "https://update-me.com"
+    "id": "https://anandchowdhary.com"
   },
   "jsonfeed": {
     "path": "/feed/feed.json",
-    "url": "https://update-me.com/feed/feed.json"
+    "url": "https://anandchowdhary.com/feed/feed.json"
   },
   "author": {
-    "name": "Author Name. Update me.",
-    "twitterHandle": "update_me"
+    "name": "Anand Chowdhary",
+    "twitterHandle": "AnandChowdhary"
   },
   "publisher": {
-    "name": "Publisher name. Update me."
+    "name": "Anand Chowdhary"
   }
 }
